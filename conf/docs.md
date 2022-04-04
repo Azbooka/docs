@@ -1,12 +1,13 @@
 # Azbooka Conf
-![Azbooka logo en (1)](https://user-images.githubusercontent.com/98387720/161536805-d01f3054-9d32-4b3d-8f98-024580514cdc.png)
+![Azbooka logo black en](https://user-images.githubusercontent.com/98387720/161548010-7445b920-2d6a-48f1-8a2c-dd114cf8e632.jpg)
+
 ### Возможности
 **1. Трансляция своего экрана/окна приложения/вкладки браузера для участников конференции**
 
 **2. Множество интрументов для взаимодействия с участниками конференции такие как:**
 - Доска для записей, на которой могут писать как администраторы так и участники
 ![image](https://user-images.githubusercontent.com/98387720/161539987-4095df1b-a515-42a9-8ffc-ea0bda3df3a6.png)
-![image](https://user-images.githubusercontent.com/98387720/161540138-13f7efcd-0e0c-44b7-af7a-e75af0bee7b2.png)
+![image](https://user-images.githubusercontent.com/98387720/161549150-0bc77d79-5a18-4d93-b30b-cd2cf8748ec1.png)
 >Azbooka conf поддерживает несколько панелей с доской (можно использовать не стирая старые напдиси или для выделения собственной доски участнику или группе участиков)
 - Создание опросов с вариантами ответа, на которые можно будет ответить учатникам в режиме реального времени
  ![image](https://user-images.githubusercontent.com/98387720/161540657-f482dc37-c022-4e43-baa5-8786f3474e42.png)
